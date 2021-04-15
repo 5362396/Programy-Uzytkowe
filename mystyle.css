@@ -1,0 +1,51 @@
+body {
+  background-color: white;
+}
+.square {
+  width:200px;
+  height: 200px;
+  background-color: #FF0000;
+  position:relative;
+  left:250px;
+  top:50px
+	}
+.square2 {
+  width:200px;
+  height: 200px;
+  background-color: #FF0000;
+  position:relative;
+  left:50px;
+  top:50px
+	}
+.rectangle {
+  width:200px;
+  height: 10px;
+  background-color: #FF0000;
+  position:relative;
+  left:50px;
+  bottom:360px
+	}
+.rectangle2 {
+  width:200px;
+  height: 10px;
+  background-color: #FF0000;
+  position:relative;
+  left:250px;
+  top:40px
+	}
+.rectangle3 {
+  width:10px;
+  height:210px;
+  background-color: #FF0000;
+  position:relative;
+  left:450px;
+  bottom:170px
+	}
+.rectangle4 {
+  width:10px;
+  height:210px;
+  background-color: #FF0000;
+  position:relative;
+  left:40px;
+  bottom:590px
+	}

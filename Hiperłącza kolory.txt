@@ -1,0 +1,14 @@
+<a href='link'>
+</a>
+<br>
+
+a:link{
+  color:yellow;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color:green;
+  font-size:150%
+}

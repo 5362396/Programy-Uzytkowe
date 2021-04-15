@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SVG</title>
+<style>
+#cyrk {fill: blue}
+</style>
+</head>
+<body /*style='font-size: 24px;'*/>
+<ul>
+	<li>Znacznik &lt;svg&gt;...&lt;/svg&gt; wstawiamy do dokumentu HTML
+</ul>
+<svg width="1200" height="800">
+	<circle cx="600" cy="100" r="50"> </circle>
+	<circle cx="300" cy="100" r="50"
+	stroke='red' stroke-width='12' fill='green'/>
+	<circle id='cyrk' cx="300" cy="300" r="50"/>
+	<circle cx="600" cy="300" r="50" style='fill: red'/>
+	<circle cx="900" cy="100" r="50"
+		style='fill:none; stroke:red; stroke-width:12'/>
+</svg>
+</body>
+</html>
